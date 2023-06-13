@@ -8,3 +8,5 @@ trying to implement it into a new project will require understanding the ins and
 behind all this.
 
 At the moment im trying to make the code more clear and reduce the bloating, aka, merging some scripts and functions all into one, when possible
+
+this was all made when I wasnt proficient at coding in general...
